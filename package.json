@@ -1,0 +1,19 @@
+{
+  "name": "npm_lib",
+  "version": "1.0.0",
+  "description": "test create library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainurrasyid/npm_lib.git"
+  },
+  "author": "alrasyid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainurrasyid/npm_lib/issues"
+  },
+  "homepage": "https://github.com/zainurrasyid/npm_lib#readme"
+}
